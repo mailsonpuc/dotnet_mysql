@@ -2,6 +2,10 @@
 
 BAIXA O [Visual Studio Code](https://code.visualstudio.com/download)
 
+
+
+
+
 ## Dentro do vscode baixa as extensao
 | NOME | EXTENSÂO             |
 | ---  |         ---          |
@@ -22,9 +26,11 @@ BAIXA O [Visual Studio Code](https://code.visualstudio.com/download)
 
 
 
-| Command      | Description |
-| ---          |         --- |
-| `dotnet run` | roda o app |
+| Command                   | Description |
+| ---                       |         --- |
+| `dotnet run`              | roda o app |
+| `dotnet new mvc -o nome ` | criar um novo app mvc |
 
 COPIAR STRING DE CONEXAO MYSQL [SITE MYSQL STRING](https://dev.mysql.com/doc/connector-net/en/connector-net-connections-string.html)
 
+MIGRATIONS [Fazer migrations](https://learn.microsoft.com/pt-br/ef/core/cli/)
