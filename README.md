@@ -18,11 +18,13 @@ BAIXA O [Visual Studio Code](https://code.visualstudio.com/download)
 
 
 ## Dentro do Nuget baixa as extensao
-| NOME |         EXTENSÂO                     |  versao testada |
-| ---  |         ---                          |      ---        |
-|   1  | Microsoft.EntityFrameworkCore        |     V8.0.4      |
-|   2  | Microsoft.EntityFrameworkCore.Tools  |     V8.0.4      |
-|   3  | MySql.EntityFrameworkCore            |     V8.0.4      |
+| NOME |               EXTENSÂO                                         |  versao testada |
+| ---  |                 ---                                            |      ---        |
+|   1  | Microsoft.EntityFrameworkCore                                  |     V8.0.4      |
+|   2  | Microsoft.EntityFrameworkCore.Tools                            |     V8.0.4      |
+|   3  | MySql.EntityFrameworkCore                                      |     V8.0.4      |
+|   3  | Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation by Microsoft |     V8.0.4      |
+
 
 
 
